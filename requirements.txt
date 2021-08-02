@@ -1,0 +1,7 @@
+numpy
+pyautogui
+cv2
+datetime
+scipy
+math
+time
